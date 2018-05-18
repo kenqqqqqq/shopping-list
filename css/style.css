@@ -1,0 +1,28 @@
+.label-container {
+    color: grey;
+    text-align: center;
+}
+
+.collection .collection-item {
+    padding: 10px 123px 10px 130px;
+}
+
+.span-quantity {
+    left: 37%;
+    position: absolute;
+}
+
+.span-price {
+    left: 62%;
+    position: absolute;
+}
+
+.total-price {
+    color: grey;
+    left: 54%;
+    position: absolute;
+}
+
+/* .toCenter {
+    margin-right: 40%;
+} */
