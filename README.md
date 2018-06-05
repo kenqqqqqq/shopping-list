@@ -1,1 +1,1 @@
-# midstackproject2 shopping list
+# shopping list
